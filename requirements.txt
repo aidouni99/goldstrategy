@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+python-telegram-bot==13.7
+ccxt
+talib-binary
+joblib
+requests
+schedule
+python-dotenv
